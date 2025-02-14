@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: #152141;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100vw;
+    height: 10vh;
+    border-bottom: solid 1px rgba(128, 128, 128, 0.173);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60vw;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo a{
+    text-decoration: none;
+}
+
+.logo span{
+    color: white;
+    font-size: 17px;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.navbar a{
+    font-style: none;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar a li:hover{
+    color: #E9503D;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn-orange{
+    padding: 13px 20px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-size: 17px;
+    background-color: #FF9515;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn-orange:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
+
+.btn-green{
+    padding: 13px 20px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-size: 17px;
+    background-color: #61CE70;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn-green:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
+
+.hero{
+    display: flex;
+    flex-direction: row;
+    width: 60vw;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.hero-1{
+    padding: 15px 15px 15px 0px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.hero-1 h1{
+    color: white;
+    font-size: 70px;
+}
+
+.icon-check{
+    list-style: none;
+}
+
+.icon-check li::before {
+    content: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" viewBox="0 0 26 24" fill="none"><path d="M8.29727 24L8.01311 23.5072C5.88197 19.8261 0.227322 11.971 0.170492 11.8841L0 11.6522L2.13115 9.50725L8.21202 13.8551C12.0197 8.81159 15.5716 5.36232 17.9016 3.33333C20.4874 1.10145 22.1071 0.0869565 22.1639 0.057971L22.2492 0H26L25.3749 0.57971C17.3617 7.85507 8.66667 23.3623 8.58142 23.5072L8.29727 24Z" fill="%23FF9515"></path></svg>');
+}
+
+.hero-2{
+    padding: 15px 0px 15px 15px;
+    width: 50%;
+}
