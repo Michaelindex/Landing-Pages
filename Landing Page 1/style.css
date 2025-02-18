@@ -15,6 +15,7 @@ header{
     max-width: 100vw;
     height: 10vh;
     border-bottom: solid 1px rgba(128, 128, 128, 0.173);
+    padding: 5px;
 }
 nav{
     display: flex;
@@ -35,7 +36,7 @@ nav{
 
 .logo span{
     color: white;
-    font-size: 17px;
+    font-size: 21px;
 }
 
 .navbar{
@@ -51,6 +52,10 @@ nav{
     color: white;
 }
 
+.navbar a li{
+    font-size: 21px;
+}
+
 .navbar a li:hover{
     color: #E9503D;
     cursor: pointer;
@@ -58,11 +63,11 @@ nav{
 }
 
 .btn-orange{
-    padding: 13px 20px;
+    padding: 13px 30px;
     border: none;
     border-radius: 25px;
     color: white;
-    font-size: 17px;
+    font-size: 21px;
     background-color: #FF9515;
     cursor: pointer;
     transition: 0.5s;
@@ -74,11 +79,11 @@ nav{
 }
 
 .btn-green{
-    padding: 13px 20px;
+    padding: 13px 30px;
     border: none;
     border-radius: 25px;
     color: white;
-    font-size: 17px;
+    font-size: 21px;
     background-color: #61CE70;
     cursor: pointer;
     transition: 0.5s;
@@ -93,32 +98,42 @@ nav{
     display: flex;
     flex-direction: row;
     width: 60vw;
+    height: 70vh;
     margin: auto;
     padding-top: 50px;
 }
 
 .hero-1{
-    padding: 15px 15px 15px 0px;
-    width: 50%;
+    width: 55%;
     display: flex;
+    justify-content: center;
     flex-direction: column;
     gap: 25px;
 }
 
 .hero-1 h1{
     color: white;
-    font-size: 70px;
+    font-size: 90px;
 }
 
 .icon-check{
     list-style: none;
 }
 
+.icon-check li{
+    font-size: 22px;
+    color: #848B9C;
+    margin-bottom: 7px;
+}
 .icon-check li::before {
+    padding: 5px;
     content: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" viewBox="0 0 26 24" fill="none"><path d="M8.29727 24L8.01311 23.5072C5.88197 19.8261 0.227322 11.971 0.170492 11.8841L0 11.6522L2.13115 9.50725L8.21202 13.8551C12.0197 8.81159 15.5716 5.36232 17.9016 3.33333C20.4874 1.10145 22.1071 0.0869565 22.1639 0.057971L22.2492 0H26L25.3749 0.57971C17.3617 7.85507 8.66667 23.3623 8.58142 23.5072L8.29727 24Z" fill="%23FF9515"></path></svg>');
 }
 
 .hero-2{
-    padding: 15px 0px 15px 15px;
-    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 45%;
 }
