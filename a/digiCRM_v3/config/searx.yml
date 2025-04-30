@@ -1,0 +1,24 @@
+# SearXNG endpoint configuration
+endpoint: "https://search.piattino.com.br/search"
+default_params:
+  format: "json"
+  language: "pt-BR"
+  safesearch: 1
+  categories: "general"
+whitelist_domains: []
+  # - gov.br
+  # - crm.org.br
+  # - medguias.com.br
+  # - apontador.com.br
+  # - guiamaIs.com.br
+  # - boaconsulta.com.br
+  # - doctoralia.com.br
+  # - telelistas.net
+  # - telemedicina.com.br
+blacklist_domains:
+  - jusbrasil.com.br
+  - consultacrm.com.br
+  - bvsms.saude.gov.br
+  - uncisal.edu.br
+  - hospitalveredas.com.br
+  - econodata.com.br

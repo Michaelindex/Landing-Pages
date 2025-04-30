@@ -1,0 +1,177 @@
+2025-04-29 10:11:43,884 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cpu
+2025-04-29 10:11:43,884 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-29 10:11:45,918 WARNING huggingface_hub.file_download: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-04-29 10:13:01,761 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:06,268 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:10,538 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:13,887 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:17,869 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:21,061 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:24,873 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:28,525 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:32,563 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:37,429 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:40,854 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:45,228 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:48,570 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:52,146 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:13:56,191 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:00,248 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:04,125 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:07,483 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:11,291 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:14,830 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:18,254 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:22,687 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:28,034 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:31,675 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:35,272 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:39,722 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:40,987 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:14:41,143 ERROR trafilatura.utils: parsed tree length: 1, wrong data type or not valid HTML
+2025-04-29 10:14:41,143 ERROR trafilatura.core: empty HTML tree: None
+2025-04-29 10:14:41,143 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:14:45,383 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:50,123 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:55,759 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:14:59,970 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:15:13,466 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:15:17,089 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:15:22,047 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:15:26,783 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:15:47,173 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:15:50,945 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:15:51,569 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:15:55,502 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:16:00,343 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:16:06,023 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:16:09,302 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:16:13,606 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:16:16,924 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:16:20,597 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:08,751 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:12,916 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:16,827 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:21,974 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:25,070 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:25,422 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:17:28,766 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:30,056 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:34,720 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:39,068 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:42,839 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:46,207 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:17:50,339 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:04,416 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:09,463 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:11,375 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:14,874 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:15,276 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:18:19,907 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:23,455 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:26,794 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:30,510 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:38,074 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:38,089 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:18:42,113 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:18:51,157 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:11,233 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:13,546 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:17,075 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:23,924 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:28,532 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:39,439 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:42,598 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:19:46,001 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:02,114 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:02,541 ERROR trafilatura.utils: parsed tree length: 1, wrong data type or not valid HTML
+2025-04-29 10:20:02,541 ERROR trafilatura.core: empty HTML tree: None
+2025-04-29 10:20:02,541 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:20:07,496 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:11,112 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:24,874 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:30,089 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:33,454 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:38,059 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:41,753 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:46,958 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:20:50,642 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:21:02,592 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:21:12,342 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:21:13,057 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:21:17,727 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:21:20,954 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:21:26,730 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:21:28,391 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:21:56,006 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:22:00,012 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:22:04,408 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:22:09,469 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:22:12,805 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:22:18,425 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:22:18,437 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:22:44,558 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:22:46,159 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:23:12,903 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:23:19,257 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:23:23,089 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:25:34,014 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:25:37,481 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:25:41,208 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:25:45,495 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:25:48,867 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:25:54,626 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:25:59,130 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:26:02,752 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:26:05,846 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:26:13,295 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:26:41,037 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:26:42,167 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:26:45,832 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:26:51,897 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:26:55,873 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:00,535 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:05,847 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:09,510 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:14,549 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:17,799 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:35,690 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:38,073 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:27:43,130 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:47,647 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:47,654 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:27:52,076 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:27:55,160 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:00,012 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:04,109 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:08,248 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:15,794 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:17,508 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:21,996 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:26,020 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:32,180 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:38,775 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:42,275 WARNING trafilatura.core: discarding data: None
+2025-04-29 10:28:48,120 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:28:55,255 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:29:05,882 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 10:29:06,051 WARNING aiohttp.client: Can not load response cookies: Illegal key 'BIGipServerKF9aV/YAypHzQuCIHI5lBA'
+2025-04-29 10:29:09,842 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 18:24:44,206 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cpu
+2025-04-29 18:24:44,207 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-29 18:25:58,310 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cpu
+2025-04-29 18:25:58,310 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-29 18:32:13,731 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cpu
+2025-04-29 18:32:13,731 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-29 23:58:34,293 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cuda:0
+2025-04-29 23:58:34,294 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-29 23:58:59,884 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cuda:0
+2025-04-29 23:58:59,884 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-30 00:02:12,225 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cuda:0
+2025-04-30 00:02:12,225 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-30 00:02:36,945 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cuda:0
+2025-04-30 00:02:36,945 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-30 00:04:22,558 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cuda:0
+2025-04-30 00:04:22,559 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-30 00:06:33,997 INFO sentence_transformers.SentenceTransformer: Use pytorch device_name: cuda:0
+2025-04-30 00:06:33,997 INFO sentence_transformers.SentenceTransformer: Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2

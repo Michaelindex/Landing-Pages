@@ -1,0 +1,7 @@
+# Local LLM (Ollama) configuration
+model: "llama3.1:8b"
+host: "http://localhost:11434"
+endpoint: "/api/generate"
+default_kwargs:
+  temperature: 0.3
+  stream: false

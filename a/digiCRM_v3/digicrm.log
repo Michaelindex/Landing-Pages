@@ -1,0 +1,487 @@
+2025-04-29 01:12:58,957 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:12:58,957 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:13:15,507 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:13:15,508 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:13:27,424 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:13:27,425 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:13:51,109 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:13:51,110 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:16:29,963 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:16:29,964 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:17:07,034 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:17:07,035 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:19:35,912 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:19:35,913 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:19:41,341 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:19:41,342 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:19:47,753 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:19:47,754 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:20:00,475 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:20:00,476 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:20:08,755 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:20:08,755 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:20:10,123 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:20:10,123 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:21:10,348 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:21:10,349 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:21:17,937 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:21:17,937 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:21:23,560 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:21:23,560 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:21:46,792 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:21:46,793 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:21:49,657 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:21:49,658 WARNING classify: LLM error: Expecting value: line 1 column 1 (char 0)
+2025-04-29 01:31:35,240 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:31:42,818 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:32:27,695 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:32:27,696 WARNING classify: LLM response impossível de parsear:
+```json
+{
+    "CARLOS FEGURI": {
+        "specialty": "",
+        "address": "Rua Treze de Junho, 2101",
+        "complement": "",
+        "postal_code": "",
+        "city": "Cuiabá",
+        "state": "MT",
+        "phone1": "",
+        "phone2": "",
+        "cell1": "",
+        "cell2": "",
+       
+2025-04-29 01:33:01,004 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:33:01,004 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "name": "Dr. Manoel Elias De Rezende",
+    "crm": "1158 MT RQE 185 RQE 62",
+    "specialty": "Médico perito, Ortopedista - traumatologista",
+    "address": "Av Aclimação 265 Bosque da Saúde, Cuiabá - MT, Brasil, Cuiabá",
+    "complement": "",
+    "postal_code": "",
+    "city": "Cui
+2025-04-29 01:33:41,235 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:33:41,235 WARNING classify: LLM response impossível de parsear:
+```
+[
+  {
+    "name": "",
+    "specialty": "Clínica Médica",
+    "address": "Rua Fernandes Tourinho 929, sala 901",
+    "complement": "",
+    "postal_code": "",
+    "city": "Belo Horizonte",
+    "state": "",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    
+2025-04-29 01:33:48,476 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:33:58,448 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:45:30,053 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:45:45,517 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:45:52,145 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:46:42,466 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:46:42,467 WARNING classify: LLM response impossível de parsear:
+```json
+[
+    {
+        "name": "Abrao Antonio Sebe",
+        "crm": 2198,
+        "uf": "MT",
+        "specialty": "",
+        "address": "Rua Treze de Junho, 2101, Cuiabá",
+        "complement": "",
+        "postal_code": "",
+        "city": "Cuiabá",
+        "state": "MT",
+        "phone1": "",
+ 
+2025-04-29 01:48:21,236 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:48:21,237 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "Reumatologia",
+    "address": "Rua Fernandes Tourinho 929, sala 901",
+    "complement": "",
+    "postal_code": "",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    "email2": ""
+2025-04-29 01:50:10,209 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:50:10,210 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "name": "",
+    "specialty": "Especialista em clínica médica",
+    "address": "Avenida dos Andradas, 3323 (3º andar)",
+    "complement": "",
+    "postal_code": "",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+2025-04-29 01:50:14,782 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:50:52,301 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:50:52,301 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "CRM": "1158",
+    "UF": "MT",
+    "RQE": "185",
+    "RQE_62": "",
+    "specialty": "Ortopedista - traumatologista",
+    "name": "Dr. Manoel Elias De Rezende",
+    "address": "Av Aclimação 265 Bosque da Saúde, Cuiabá - MT, Brasil",
+    "complement": "Centro Médico São Mateus I, ao 
+2025-04-29 01:51:01,442 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:51:10,827 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:54:12,144 WARNING classify: LLM HTTP error: timed out
+2025-04-29 01:54:19,657 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:54:25,610 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:54:45,480 WARNING trafilatura.core: discarding data: None
+2025-04-29 01:54:48,849 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:54:55,092 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:55:04,722 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:57:37,170 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:57:43,201 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:57:50,268 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:57:53,654 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:58:10,389 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:58:10,389 WARNING classify: LLM response impossível de parsear:
+{
+  "27049": {
+    "specialty": "",
+    "address": "",
+    "complement": "",
+    "postal_code": "",
+    "city": "",
+    "state": "",
+    "phone1": "(11) 3017-9383",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    "email2": ""
+  },
+  "61694": {
+    "specialty": "",
+    "addr
+2025-04-29 01:58:16,218 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 01:58:22,095 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:01:22,292 WARNING classify: LLM HTTP error: timed out
+2025-04-29 02:01:28,540 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:01:32,867 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:01:37,379 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:01:42,097 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:01:48,157 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:01:53,944 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:00,778 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:06,823 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:12,529 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:17,560 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:22,537 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:25,816 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:30,769 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:35,570 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:41,524 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:49,556 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:54,112 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:02:58,104 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:03:02,325 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:03:06,189 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:04:10,042 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:04:10,043 WARNING classify: LLM response impossível de parsear:
+```
+[
+    {
+        "specialty": "Radiologistas",
+        "address": "Centro, Itapetininga",
+        "complement": "",
+        "postal_code": "",
+        "city": "Itapetininga",
+        "state": "SP",
+        "phone1": "",
+        "phone2": "",
+        "cell1": "",
+        "cell2": "",
+        "emai
+2025-04-29 02:04:41,888 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:05:21,575 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:05:21,576 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "",
+    "address": "Ginecologistas em Jardim Cidade Universitaria, João Pessoa",
+    "complement": "",
+    "postal_code": "",
+    "city": "João Pessoa",
+    "state": "PB",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    "emai
+2025-04-29 02:06:17,209 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:06:17,209 WARNING classify: LLM response impossível de parsear:
+```
+[
+  {
+    "specialty": "",
+    "address": "Rua Miguel de Frias N:150 Cobertura: 24220003 Icarai",
+    "complement": "Cobertura: 24220003",
+    "postal_code": "",
+    "city": "Icaraí",
+    "state": "",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    "em
+2025-04-29 02:07:24,456 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:07:24,457 WARNING classify: LLM response impossível de parsear:
+```
+[
+  {
+    "name": "JO\u00e3O ANANIAS VASCONCELOS NETO",
+    "crm": "3636",
+    "uf": "CE",
+    "conv\u00eanio": ""
+  },
+  {
+    "name": "Dr. Ryan de Brito Silva Oliveira",
+    "crm": "1232614",
+    "uf": "RJ",
+    "address": "",
+    "specialty": [
+      "M\u00e9dico cl\u00ednico geral",
+      "G
+2025-04-29 02:07:31,435 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:07:35,841 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:07:41,378 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:07:45,888 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:08:37,605 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:08:37,606 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "Médico acupunturista",
+    "address": "Av do Estado dalmo Vieira, 2425",
+    "complement": "",
+    "postal_code": "",
+    "city": "Balneário Camboriú",
+    "state": "SC",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    "emai
+2025-04-29 02:08:43,753 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:08:48,638 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:08:48,944 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:08:52,243 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:08:56,585 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:09:01,292 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:09:05,675 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:09:09,685 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:09:50,969 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:09:50,970 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "Patologista clínico, Angiologista, Cardiologista",
+    "address": "Clínica Vida Assistência Médica Especializada",
+    "complement": "",
+    "postal_code": "",
+    "city": "Salvador",
+    "state": "BA",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2":
+2025-04-29 02:11:55,067 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:11:55,068 WARNING classify: LLM response impossível de parsear:
+```json
+[
+    {
+        "specialty": "",
+        "address": "",
+        "complement": "",
+        "postal_code": "",
+        "city": "",
+        "state": "",
+        "phone1": "",
+        "phone2": "",
+        "cell1": "",
+        "cell2": "",
+        "email1": "",
+        "email2": ""
+    },
+    {
+
+2025-04-29 02:14:56,178 WARNING classify: LLM HTTP error: timed out
+2025-04-29 02:14:56,227 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:14:59,593 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:15:03,549 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:15:03,555 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:15:06,753 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:15:11,262 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:15:16,824 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:15:21,842 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:16:56,377 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:16:56,377 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "Anestesiologistas",
+    "address": "",
+    "complement": "",
+    "postal_code": "",
+    "city": "Rio Branco",
+    "state": "AC",
+    "phone1": "(68) 3223....",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    "email2": ""
+  },
+  {
+    "special
+2025-04-29 02:16:57,415 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:17:00,738 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:17:10,182 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:17:14,237 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:17:18,674 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:08,159 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:08,160 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "Médicos Psiquiatras",
+    "address": "Rua Barao Do Rio Branco, 43 - Centro, Capivari - SP",
+    "complement": "",
+    "postal_code": "",
+    "city": "Capivari",
+    "state": "SP",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+
+2025-04-29 02:18:16,170 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:19,924 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:24,241 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:24,248 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:18:27,616 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:31,483 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:36,387 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:42,815 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:46,832 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:18:50,925 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:21:51,144 WARNING classify: LLM HTTP error: timed out
+2025-04-29 02:22:00,565 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:05,516 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:11,359 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:15,857 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:20,583 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:20,593 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:22:23,956 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:29,728 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:29,894 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:22:33,346 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:22:37,489 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:23:07,030 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:23:07,031 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "Homeopatas em Itinga, Manaus",
+    "address": "Rua ACRE, ED CEMOM sala 301,302 e 303, Manaus • Mapa",
+    "complement": "",
+    "postal_code": "",
+    "city": "Manaus",
+    "state": "AM",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email
+2025-04-29 02:23:12,040 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:23:20,315 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:24:20,968 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:24:24,004 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:29:20,247 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:29:27,444 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:29:35,449 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:29:56,254 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:29:56,255 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "specialty": "Alergista em Centro, Niterói",
+    "address": "",
+    "complement": "",
+    "postal_code": "",
+    "city": "Niterói",
+    "state": "RJ",
+    "phone1": "",
+    "phone2": "",
+    "cell1": "",
+    "cell2": "",
+    "email1": "",
+    "email2": ""
+  },
+  {
+    "name": "Dra.
+2025-04-29 02:30:01,015 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:30:02,755 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:30:06,122 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:30:09,910 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:30:23,480 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:30:54,530 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:31:04,650 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:31:11,646 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:31:31,684 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:31:35,026 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:31:35,151 WARNING aiohttp.client: Can not load response cookies: Illegal key 'BIGipServerKF9aV/YAypHzQuCIHI5lBA'
+2025-04-29 02:34:35,822 WARNING classify: LLM HTTP error: timed out
+2025-04-29 02:35:45,747 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-29 02:35:45,748 WARNING classify: LLM response impossível de parsear:
+```json
+[
+  {
+    "CRM": "10482",
+    "UF": "SP",
+    "specialty": "Cirurgiões cardiovasculares"
+  },
+  {
+    "CRM": "4523",
+    "UF": "PB",
+    "RQE": "2213",
+    "RQE_1": "2326",
+    "specialty": "Cirurgião cardiovascular",
+    "name": "Paulo Roberto da Silva Lima",
+    "address": "",
+    "complem
+2025-04-29 02:36:33,560 WARNING trafilatura.core: discarding data: None
+2025-04-29 02:36:36,934 INFO httpx: HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
